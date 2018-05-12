@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/563
     wikipedia: http://en.wikipedia.org/wiki/Niccolò_Machiavelli
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45472#Ruhtinas
 gutenberg_issued: '2014-04-24'
 gutenberg_type: Text
 identifiers:
